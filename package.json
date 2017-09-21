@@ -1,8 +1,8 @@
 {
-    "name": "fomatto",
+    "name": "node-fomatto",
     "version": "0.6.0",
     "description": "Lightweight JavaScript String Interpolation.",
-    "homepage": "https://github.com/BonsaiDen/fomatto",
+    "homepage": "https://github.com/Dis1092006/Fomatto",
     "author": "Ivo Wetzel <ivo.wetzel@googlemail.com>",
     
     "keywords": [
@@ -19,16 +19,9 @@
     
     "repository": {
         "type" : "git",
-        "url" : "http://github.com/BonsaiDen/fomatto.git"
+        "url" : "https://github.com/Dis1092006/Fomatto.git"
     },
 
-    "bugs": {
-        "url": "http://github.com/BonsaiDen/fomatto/issues"
-    },
-
-    "licenses": [{
-        "type": "MIT",
-        "url": "http://github.com/BonsaiDen/fomatto/raw/master/LICENSE"
-    }]
+    "license": "MIT"
 }
 

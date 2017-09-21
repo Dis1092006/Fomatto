@@ -6,7 +6,11 @@ JavaScript.
 
 The library brings with it the `Formatter` factory and the `FormatError`.
 
-# Usage
+## About this fork
+
+This repository is a fork of [this repo](https://github.com/BonsaiDen/Fomatto). I decided to fork that because I needed to use the latest version 0.6 of the module via NPM.
+
+## Usage
     
 In order to use Fōmatto it is necessary to create a `format` function with the 
 `Formatter` factory.
